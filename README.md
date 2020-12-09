@@ -1,7 +1,5 @@
 ## Love Calculator
 
-# 💪 This is a Difficult Challenge 💪
-
 # Instructions
 
 You are going to write a program that tests the compatibility between two people. We're going to use the super scientific method recommended by BuzzFeed. 
